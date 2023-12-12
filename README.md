@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**NataDias04/NataDias04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Natã Dias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante de analise e desenvolvimento de sistemas na faculdade UCL
+
+
+Atualmente estudando: POO( Programação orientada o objetos) || SQL
+
+Tecnologias utilizadas:
+
+<img src="https://github.com/NataDias04/NataDias04/assets/142185726/baa9849e-2ff4-4be5-88e8-20012b8e7dd5" width="50" height="50">
+
+<img src="https://github.com/NataDias04/NataDias04/assets/142185726/c642e74b-be55-42cd-a8d8-d0f84496620f" width="50" height="50">
