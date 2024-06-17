@@ -5,7 +5,7 @@ Natã Dias
 Estudante de analise e desenvolvimento de sistemas na faculdade UCL
 
 
-Atualmente estudando: POO( Programação orientada o objetos) || SQL
+Atualmente estudando:
 
 Tecnologias utilizadas:
 
