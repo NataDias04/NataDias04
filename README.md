@@ -15,5 +15,5 @@ Tecnologias utilizadas:
 
 <img src="https://github.com/NataDias04/NataDias04/assets/142185726/fde389cd-2a5a-4ff9-92e2-c125a79cd193" width="50" height="50">
 
-<img src="https://github.com/NataDias04/NataDias04/assets/659a682f-a97b-4bbf-bce9-de12b8c53cae" width="50" height="50">
+<img src="![png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail](https://github.com/user-attachments/assets/659a682f-a97b-4bbf-bce9-de12b8c53cae)" width="50" height="50">
 
