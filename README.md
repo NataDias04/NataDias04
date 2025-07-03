@@ -2,7 +2,7 @@
 
 Natã Dias
 
-Estudante de analise e desenvolvimento de sistemas na faculdade UCL
+Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 
 Atualmente estudando:
