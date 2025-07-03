@@ -1,11 +1,11 @@
+Olá, meu nome é Natã.
+Sou Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-
-Natã Dias
-
-Tecnólogo em Análise e Desenvolvimento de Sistemas
-
+##
 
 Atualmente estudando:
+
+##
 
 Tecnologias utilizadas:
 
