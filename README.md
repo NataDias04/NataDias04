@@ -3,7 +3,7 @@ Sou Tecnólogo em Análise e Desenvolvimento de Sistemas
 
 ##
 
-Atualmente estudando:
+Atualmente estudando: Desenvolvimento de Jogos Digitais
 
 ##
 
